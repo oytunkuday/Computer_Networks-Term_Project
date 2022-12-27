@@ -1,0 +1,63 @@
+c:\users\oytun\documents\visual studio 2015\Projects\hw1\hw1\bin\Debug\hw1.exe.config
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\hw1\hw1\bin\Debug\hw1.exe
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\hw1\hw1\bin\Debug\hw1.pdb
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\hw1\hw1\obj\Debug\hw1.csprojResolveAssemblyReference.cache
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\hw1\hw1\obj\Debug\hw1.Form1.resources
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\hw1\hw1\obj\Debug\hw1.Properties.Resources.resources
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\hw1\hw1\obj\Debug\hw1.csproj.GenerateResource.Cache
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\hw1\hw1\obj\Debug\hw1.exe
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\hw1\hw1\obj\Debug\hw1.pdb
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\Project Step 1\Client\hw1\bin\Debug\hw1.exe.config
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\Project Step 1\Client\hw1\obj\Debug\hw1.exe
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\Project Step 1\Client\hw1\obj\Debug\hw1.pdb
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\Project Step 1\Client\hw1\bin\Debug\hw1.exe
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\Project Step 1\Client\hw1\bin\Debug\hw1.pdb
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\Project Step 1\Client\hw1\obj\Debug\hw1.csprojResolveAssemblyReference.cache
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\Project Step 1\Client\hw1\obj\Debug\hw1.Form1.resources
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\Project Step 1\Client\hw1\obj\Debug\hw1.Properties.Resources.resources
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\Project Step 1\Client\hw1\obj\Debug\hw1.csproj.GenerateResource.Cache
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\oytunkuday-Duran-OytunKuday-Step1\Client\hw1\bin\Debug\hw1.exe.config
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\oytunkuday-Duran-OytunKuday-Step1\Client\hw1\obj\Debug\hw1.exe
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\oytunkuday-Duran-OytunKuday-Step1\Client\hw1\obj\Debug\hw1.pdb
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\oytunkuday-Duran-OytunKuday-Step1\Client\hw1\bin\Debug\hw1.exe
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\oytunkuday-Duran-OytunKuday-Step1\Client\hw1\bin\Debug\hw1.pdb
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\oytunkuday-Duran-OytunKuday-Step1\Client\hw1\obj\Debug\hw1.csprojResolveAssemblyReference.cache
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\oytunkuday-Duran-OytunKuday-Step1\Client\hw1\obj\Debug\hw1.Form1.resources
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\oytunkuday-Duran-OytunKuday-Step1\Client\hw1\obj\Debug\hw1.Properties.Resources.resources
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\oytunkuday-Duran-OytunKuday-Step1\Client\hw1\obj\Debug\hw1.csproj.GenerateResource.Cache
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\bin\Debug\hw1.exe.config
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.exe
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.pdb
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\bin\Debug\hw1.exe
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\bin\Debug\hw1.pdb
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.csprojResolveAssemblyReference.cache
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.Form1.resources
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.Properties.Resources.resources
+C:\Users\oytun\Documents\Visual Studio 2015\Projects\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.csproj.GenerateResource.Cache
+C:\Users\oytun\Desktop\oytunkuday-Duran-OytunKuday-Step2 (1)\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\bin\Debug\hw1.exe.config
+C:\Users\oytun\Desktop\oytunkuday-Duran-OytunKuday-Step2 (1)\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.exe
+C:\Users\oytun\Desktop\oytunkuday-Duran-OytunKuday-Step2 (1)\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.pdb
+C:\Users\oytun\Desktop\oytunkuday-Duran-OytunKuday-Step2 (1)\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\bin\Debug\hw1.exe
+C:\Users\oytun\Desktop\oytunkuday-Duran-OytunKuday-Step2 (1)\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\bin\Debug\hw1.pdb
+C:\Users\oytun\Desktop\oytunkuday-Duran-OytunKuday-Step2 (1)\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.csprojResolveAssemblyReference.cache
+C:\Users\oytun\Desktop\oytunkuday-Duran-OytunKuday-Step2 (1)\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.Form1.resources
+C:\Users\oytun\Desktop\oytunkuday-Duran-OytunKuday-Step2 (1)\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.Properties.Resources.resources
+C:\Users\oytun\Desktop\oytunkuday-Duran-OytunKuday-Step2 (1)\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.csproj.GenerateResource.Cache
+C:\Users\oytun\Downloads\new\oytunkuday-Duran-OytunKuday-Step2 (2)\oytunkuday-Duran-OytunKuday-Step2\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\bin\Debug\hw1.exe.config
+C:\Users\oytun\Downloads\new\oytunkuday-Duran-OytunKuday-Step2 (2)\oytunkuday-Duran-OytunKuday-Step2\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.exe
+C:\Users\oytun\Downloads\new\oytunkuday-Duran-OytunKuday-Step2 (2)\oytunkuday-Duran-OytunKuday-Step2\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.pdb
+C:\Users\oytun\Downloads\new\oytunkuday-Duran-OytunKuday-Step2 (2)\oytunkuday-Duran-OytunKuday-Step2\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\bin\Debug\hw1.exe
+C:\Users\oytun\Downloads\new\oytunkuday-Duran-OytunKuday-Step2 (2)\oytunkuday-Duran-OytunKuday-Step2\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\bin\Debug\hw1.pdb
+C:\Users\oytun\Downloads\new\oytunkuday-Duran-OytunKuday-Step2 (2)\oytunkuday-Duran-OytunKuday-Step2\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.csprojResolveAssemblyReference.cache
+C:\Users\oytun\Downloads\new\oytunkuday-Duran-OytunKuday-Step2 (2)\oytunkuday-Duran-OytunKuday-Step2\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.Form1.resources
+C:\Users\oytun\Downloads\new\oytunkuday-Duran-OytunKuday-Step2 (2)\oytunkuday-Duran-OytunKuday-Step2\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.Properties.Resources.resources
+C:\Users\oytun\Downloads\new\oytunkuday-Duran-OytunKuday-Step2 (2)\oytunkuday-Duran-OytunKuday-Step2\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.csproj.GenerateResource.Cache
+C:\Users\oytun\Downloads\new\oytunkuday-Duran-OytunKuday-Step2 (3)\oytunkuday-Duran-OytunKuday-Step2\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\bin\Debug\hw1.exe.config
+C:\Users\oytun\Downloads\new\oytunkuday-Duran-OytunKuday-Step2 (3)\oytunkuday-Duran-OytunKuday-Step2\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.exe
+C:\Users\oytun\Downloads\new\oytunkuday-Duran-OytunKuday-Step2 (3)\oytunkuday-Duran-OytunKuday-Step2\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.pdb
+C:\Users\oytun\Downloads\new\oytunkuday-Duran-OytunKuday-Step2 (3)\oytunkuday-Duran-OytunKuday-Step2\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\bin\Debug\hw1.exe
+C:\Users\oytun\Downloads\new\oytunkuday-Duran-OytunKuday-Step2 (3)\oytunkuday-Duran-OytunKuday-Step2\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\bin\Debug\hw1.pdb
+C:\Users\oytun\Downloads\new\oytunkuday-Duran-OytunKuday-Step2 (3)\oytunkuday-Duran-OytunKuday-Step2\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.csprojResolveAssemblyReference.cache
+C:\Users\oytun\Downloads\new\oytunkuday-Duran-OytunKuday-Step2 (3)\oytunkuday-Duran-OytunKuday-Step2\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.Form1.resources
+C:\Users\oytun\Downloads\new\oytunkuday-Duran-OytunKuday-Step2 (3)\oytunkuday-Duran-OytunKuday-Step2\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.Properties.Resources.resources
+C:\Users\oytun\Downloads\new\oytunkuday-Duran-OytunKuday-Step2 (3)\oytunkuday-Duran-OytunKuday-Step2\oytunkuday-Duran-OytunKuday-Step2\Client\hw1\obj\Debug\hw1.csproj.GenerateResource.Cache
